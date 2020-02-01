@@ -11,7 +11,7 @@ addons:
    secure: "ed0921aab6a9a7d74f56939441db8e1faf068404"
 
 script: 
-- cd Project1
+
 - ant build
 - sonar-scanner
 
